@@ -1,5 +1,7 @@
-#Theory: http://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html
-#Tasks: http://docs.oracle.com/javase/tutorial/java/nutsandbolts/QandE/answers_variables.html
+#Theory: 
+http://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html
+#Tasks:
+http://docs.oracle.com/javase/tutorial/java/nutsandbolts/QandE/answers_variables.html
 
 #ExerciseOne
 Create a small program that defines some fields. Try creating some illegal field names and see what kind of error
