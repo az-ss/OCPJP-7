@@ -1,5 +1,5 @@
 Fix bug(s) in th code below:
-
+```java
 public class SomethingIsRight {
     public static void main(String[] args) {
         Rectangle myRect = new Rectangle();
@@ -8,3 +8,4 @@ public class SomethingIsRight {
         System.out.println("myRect's area is " + myRect.area());
     }
 }
+```
