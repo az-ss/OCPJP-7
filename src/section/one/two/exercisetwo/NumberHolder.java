@@ -1,4 +1,4 @@
-package section.one.two.ExerciseTwo;
+package section.one.two.exercisetwo;
 
 /**
  * A little edited

@@ -1,4 +1,4 @@
-package section.one.two.ExerciseTwo;
+package section.one.two.exercisetwo;
 
 /**
  * Displayed the values of variables NumberHolder class
